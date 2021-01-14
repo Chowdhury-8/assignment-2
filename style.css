@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.profile img{
+    height: 80%;
+    width: 50%;
+}
+.profile{
+    height: 500px;
+
+}
+body{
+    background-color:cornsilk
+}
+.half-width img{
+    width: 100%;
+ 
+}
+.casual-box{
+    border: 2px;
+    border-radius: 5px;
+    background-color:white;
+    padding: 5px;
+    margin: 15px;
+}
+.card img{
+    background-color: lightgray;
+     border-radius: 2px;
+     padding: 2px;
+     margin: 3px;
+}
+button{
+    background-color: darkblue;
+    color: white;
+    border-radius: 2px;
+}
+header{
+    flex-wrap: wrap;
+}
+
+
